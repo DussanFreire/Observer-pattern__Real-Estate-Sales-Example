@@ -1,0 +1,13 @@
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\bin\Debug\netcoreapp3.1\RealEstateSelling.exe
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\bin\Debug\netcoreapp3.1\RealEstateSelling.deps.json
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\bin\Debug\netcoreapp3.1\RealEstateSelling.runtimeconfig.json
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\bin\Debug\netcoreapp3.1\RealEstateSelling.runtimeconfig.dev.json
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\bin\Debug\netcoreapp3.1\RealEstateSelling.dll
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\bin\Debug\netcoreapp3.1\RealEstateSelling.pdb
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\obj\Debug\netcoreapp3.1\RealEstateSelling.csprojAssemblyReference.cache
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\obj\Debug\netcoreapp3.1\RealEstateSelling.AssemblyInfoInputs.cache
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\obj\Debug\netcoreapp3.1\RealEstateSelling.AssemblyInfo.cs
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\obj\Debug\netcoreapp3.1\RealEstateSelling.csproj.CoreCompileInputs.cache
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\obj\Debug\netcoreapp3.1\RealEstateSelling.dll
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\obj\Debug\netcoreapp3.1\RealEstateSelling.pdb
+D:\2021-Semestre 1\ARQUI SOFT\RealEstateSelling\RealEstateSelling\obj\Debug\netcoreapp3.1\RealEstateSelling.genruntimeconfig.cache
