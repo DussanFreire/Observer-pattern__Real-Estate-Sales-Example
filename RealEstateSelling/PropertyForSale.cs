@@ -16,11 +16,6 @@ namespace RealEstateSelling
             _price = price;
         }
 
-        protected PropertyForSale(double price)
-        {
-            Price = price;
-        }
-
         public void Attach(IPotentialBuyer potentialBuyer)
         {
             _potentialBuyers.Add(potentialBuyer);
