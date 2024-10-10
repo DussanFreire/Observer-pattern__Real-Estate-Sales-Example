@@ -32,5 +32,8 @@ Example Use Cases
 * Real-Time Monitoring: Applications that need to monitor changes in data or state and notify various components accordingly, like stock price tracking apps.
 
 
-### Class Diagram:<div style="text-align:center"><img src="https://github.com/DussanFreire/RealEstateSelling/blob/main/Imagenes/diag.%20clases%20%20inmuebles.png" /></div>
-### Sequence Diagram:<div style="text-align:center"><img src="https://github.com/DussanFreire/RealEstateSelling/blob/main/Imagenes/Diag.%20de%20secuencia.png" /></div>
+## Class Diagram:
+<div style="text-align:center"><img src="https://github.com/DussanFreire/RealEstateSelling/blob/main/Imagenes/diag.%20clases%20%20inmuebles.png" /></div>
+
+## Sequence Diagram:
+<div style="text-align:center"><img src="https://github.com/DussanFreire/RealEstateSelling/blob/main/Imagenes/Diag.%20de%20secuencia.png" /></div>
